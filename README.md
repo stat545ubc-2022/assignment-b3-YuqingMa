@@ -16,6 +16,7 @@ Visit the app at https://jacqueline2025.shinyapps.io/shinny/.
 # STAT 545B - Assignment 4
 
 This is the repository for STAT 545B - Assignment 4 - Option C - make a new shiny app.
+The source code is in the folder shinyapp_new
 This is an app made for users to conveniently view recent confirmed covid-19 cases.
 Visit the app at https://jacqueline2025.shinyapps.io/covidcases/
 
